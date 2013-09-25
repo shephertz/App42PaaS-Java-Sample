@@ -16,7 +16,7 @@
         <h1>Welcome to App42 PaaS</h1>
       </div>
       <div class="massage_text_app">(You have successfully deployed your first Java Application)</div>
-      <div class="cloud_button_paas"> <a href="http://paas.shephertz.com/dev-center/getting-started"><img src="images/app-page_gt.png" alt="app42_pass" / style="margin-right:20px;"></a> <a href="http://apphq.app42paas.com/login/loginWithCRM"><img src="images/app-page_console.png" alt="app-42_console" /></a></div> </div>
+      <div class="cloud_button_paas"> <a href="http://paas.shephertz.com/dev-center/getting-started"><img src="images/app-page_gt.png" alt="Get Started" / style="margin-right:20px;"></a> <a href="http://apphq.app42paas.com/login"><img src="images/app-page_console.png" alt="AppHQ Console" /></a></div> </div>
     </div>
   </div>
 </div>
@@ -26,7 +26,7 @@
     <table>
     <tbody>
     <tr>
-     <td style="font-size:25px;"><b> Powered by :</b></td><td style="margin-right:30px;"><img src="images/app_pass_logo.png" alt="app42paas" /></td>
+     <td style="font-size:25px;"><b> Powered by :</b></td><td style="margin-right:30px;"><img src="images/app_pass_logo.png" alt="App42 PaaS" /></td>
      </tr>
      </tbody>
      </table>
